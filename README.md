@@ -109,7 +109,7 @@
   <section id="contact">
     <h2>Contact Me</h2>
     <p>Email: <a href="mailto:anjoojanogalicia@gmail.com">anjoojanogalicia@gmail.com</a></p>
-    <p>“Let the hunt begin! ”</p>
+    <p>“Goo to Grow!”</p>
   </section>
 
   <!-- Footer -->
