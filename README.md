@@ -96,7 +96,7 @@
   <section id="skills">
     <h2>My Nen-Ability</h2>
     <p>Here are some of my powers</p>
-    <div class="skills-bar">Code Breakee<div class="skills-fill" data-skill="100%"></div></div>
+    <div class="skills-bar"><div class="skills-fill" data-skill="100%">Code Breaker</div></div>
     <div class="skills-bar"><div class="skills-fill" data-skill="100%">Last Commit</div></div>
     <div class="skills-bar"><div class="skills-fill" data-skill="100%">Silent Trace</div></div>
   </section>
@@ -110,7 +110,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 Made with Hunter Association</p>
+    <p>© 2026 Made with Hunter Association</p>
   </footer>
 
   <script>
