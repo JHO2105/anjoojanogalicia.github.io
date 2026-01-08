@@ -87,7 +87,7 @@
 
   <!-- About Section -->
   <section id="about">
-    <h2>Emperor of the Seas</h2>
+    <h2>Lone Wolf</h2>
     <p>Hi! I’m Anjo Ojano Galicia the self-driven programmer who independently hunts down bugs, requirements, and solutions to create efficient and reliable software.</p>
     <img src="https://uploads.onecompiler.io/43yxcwbky/449ya8yt3/1000001859.png" alt="Profile" width="200">
   </section>
