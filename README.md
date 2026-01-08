@@ -87,18 +87,22 @@
 
   <!-- About Section -->
   <section id="about">
-    <h2>Lone Wolf</h2>
+    <h2>ANJO OJANO GALICIA</h2>
     <p>Hi! I’m Anjo Ojano Galicia the self-driven programmer who independently hunts down bugs, requirements, and solutions to create efficient and reliable software.</p>
     <img src="https://uploads.onecompiler.io/43yxcwbky/449ya8yt3/1000001859.png" alt="Profile" width="200">
   </section>
 
   <!-- Skills Section -->
   <section id="skills">
-    <h2>My Nen-Ability</h2>
+    <h2>MY SKILLS</h2>
     <p>Here are some of my powers</p>
-    <div class="skills-bar"><div class="skills-fill" data-skill="100%">Code Breaker</div></div>
-    <div class="skills-bar"><div class="skills-fill" data-skill="100%">Last Commit</div></div>
-    <div class="skills-bar"><div class="skills-fill" data-skill="100%">Silent Trace</div></div>
+    <div class="BAR"><div class="FILL" data-skill="100%">JAVA</div></div>
+    <div class="BAR"><div class="FILL" data-skill="100%">JavaScript</div></div>
+    <div class="BAR"><div class="FILL" data-skill="100%">HTML</div></div>
+     <div class="BAR"><div class="FILL" data-skill="100%">PHP</div></div>
+     <div class="BAR"><div class="FILL" data-skill="100%">GITHUB</div></div>
+     <div class="BAR"><div class="FILL" data-skill="100%">PYTHON</div></div>
+     <div class="BAR"><div class="FILL" data-skill="100%">CSS</div></div>
   </section>
 
   <!-- Contact Section -->
@@ -110,13 +114,13 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2026 Made with Hunter Association</p>
+    <p>© 2026 Made with ANJO GALICIA: All Rights Reserved</p>
   </footer>
 
   <script>
     // Animate skill bars on scroll
     window.addEventListener("scroll", function(){
-      let skills = document.querySelectorAll(".skills-fill");
+      let skills = document.querySelectorAll("FILL");
       skills.forEach(skill => {
         let rect = skill.getBoundingClientRect();
         if(rect.top < window.innerHeight){
