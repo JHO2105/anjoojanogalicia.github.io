@@ -95,7 +95,7 @@
   <!-- Skills Section -->
   <section id="skills">
     <h2>MY SKILLS</h2>
-    <p>Here are some of my powers</p>
+    <p>Learned Skills</p>
     <div class="BAR"><div class="FILL" data-skill="100%">JAVA</div></div>
     <div class="BAR"><div class="FILL" data-skill="100%">JavaScript</div></div>
     <div class="BAR"><div class="FILL" data-skill="100%">HTML</div></div>
