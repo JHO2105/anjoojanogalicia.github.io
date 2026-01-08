@@ -110,7 +110,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>© 2025 Made with ☠️ One Piece Spirit</p>
+    <p>© 2025 Made with Hunter Association</p>
   </footer>
 
   <script>
